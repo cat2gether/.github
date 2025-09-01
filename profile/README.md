@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Banner" src="https://ohiofiles.live/fec5ab.gif"/>
+<img alt="Banner" src="https://raw.githubusercontent.com/cat2gether/.github/refs/heads/main/cat2getherbanner%2Blights.gif"/>
 </p>
 
 ## 😺 `cat`: merging files — and now, hearts.
@@ -31,3 +31,4 @@ Unlike traditional apps, We focus on what you **love**<!-- we love cats -->, not
 ### Contributing
 We are building this community together and we are open for new ideas.
 Contact us via [contact@cat2gether.com](mailto:contact@cat2gether.com) or submit a pull request!
+
