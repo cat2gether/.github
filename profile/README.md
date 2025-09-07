@@ -25,10 +25,14 @@ Unlike traditional apps, We focus on what you **love**<!-- we love cats -->, not
 
 ### Tech Stack
 
+> [!NOTE]
+> We don’t plan to make the backend open-source due to potential security risks.
+
 - **Frontend**: Web-app is build on NextJS + Tailwind. Mobile apps at the moment are built using Flutter.
-- **Backend**: NestJS with custom developments + Socket.io + PostgreSQL + Auth.js
+- **Backend**: NestJS with custom developments + Socket.io + PostgreSQL
 
 ### Contributing
 We are building this community together and we are open for new ideas.
 Contact us via [contact@cat2gether.com](mailto:contact@cat2gether.com) or submit a pull request!
+
 
