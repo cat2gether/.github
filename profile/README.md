@@ -29,10 +29,6 @@ Unlike traditional apps, We focus on what you **love**<!-- we love cats -->, not
 - **Backend**: NestJS with custom developments + Socket.io + PostgreSQL
 - **Mobile**: Native Swift for iOS and Native Kotlin for Android
 
-
-> [!NOTE]
-> We don’t plan to make the backend open-source due to potential security risks.
-
 ### Catary (Canary) Version
 
 1. We're allowing users to access our Canary version of cat2gether [available here](https://cat2gether.qzz.io/).  
@@ -44,6 +40,7 @@ Unlike traditional apps, We focus on what you **love**<!-- we love cats -->, not
 
 We are building this community together and we are open for new ideas.
 Contact us via [contact@cat2gether.com](mailto:contact@cat2gether.com) or submit a pull request!
+
 
 
 
