@@ -25,8 +25,9 @@ Unlike traditional apps, We focus on what you **love**<!-- we love cats -->, not
 
 ### Tech Stack
 
-- **Frontend**: Web-app is build on NextJS + Tailwind. Mobile apps at the moment are built using Flutter.
+- **Frontend**: Web-app is build on NextJS + Tailwind
 - **Backend**: NestJS with custom developments + Socket.io + PostgreSQL
+- **Mobile**: Native Swift for iOS and Native Kotlin for Android
 
 
 > [!NOTE]
@@ -43,5 +44,6 @@ Unlike traditional apps, We focus on what you **love**<!-- we love cats -->, not
 
 We are building this community together and we are open for new ideas.
 Contact us via [contact@cat2gether.com](mailto:contact@cat2gether.com) or submit a pull request!
+
 
 
