@@ -39,7 +39,8 @@ Unlike traditional apps, We focus on what you **love**<!-- we love cats -->, not
 ### Contributing
 
 We are building this community together and we are open for new ideas.
-Contact us via [contact@cat2gether.com](mailto:contact@cat2gether.com), submit and issue, create discussion or submit a pull request!
+Contact us via [contact@cat2gether.com](mailto:contact@cat2gether.com), submit an issue, start a discussion, or open a pull request!
+
 
 
 
