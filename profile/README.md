@@ -34,12 +34,13 @@ Unlike traditional apps, We focus on what you **love**<!-- we love cats -->, not
 1. We're allowing users to access our Canary version of cat2gether [available here](https://cat2gether.qzz.io/).  
 2. After getting access to the Catary version, you’ll be able to use our unpublished and in-development features before anyone else.  
 3. We don't guarantee that all features from the Catary version will be included in the release version.  
-4. We review each Catary access request individually. After gaining access, you can invite up to 5 people to the Catary version without review of their invitations.  
+4. We review each Catary access request individually. After gaining access, you can invite up to 3 people to the Catary version without payment for their access.  
 
 ### Contributing
 
 We are building this community together and we are open for new ideas.
-Contact us via [contact@cat2gether.com](mailto:contact@cat2gether.com) or submit a pull request!
+Contact us via [contact@cat2gether.com](mailto:contact@cat2gether.com), submit and issue, create discussion or submit a pull request!
+
 
 
 
