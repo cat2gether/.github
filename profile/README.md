@@ -12,7 +12,7 @@ Unlike traditional apps, We focus on what you **love**<!-- we love cats -->, not
 
 ### Our Features
 
-- Worldwide availibility. (except for UK and Australia) 
+- Worldwide availibility. 
 - Security. Our chats are end-to-end encrypted. Your identity is protected by nicknames and avatars until you are ready to share it with someone.
 - Match by interests not appearance. You can't see names or photos of people until you both agree for that.  
 - Rare in-app features. (e.g. Markdown, Code snippets, cat2fetch, etc.)  
@@ -40,6 +40,7 @@ Unlike traditional apps, We focus on what you **love**<!-- we love cats -->, not
 
 We are building this community together and we are open for new ideas.
 Contact us via [contact@cat2gether.com](mailto:contact@cat2gether.com), submit an issue, start a discussion, or open a pull request!
+
 
 
 
